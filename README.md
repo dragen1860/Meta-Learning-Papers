@@ -10,3 +10,4 @@ Latest papers collection of thoughtful work on meta-learning research
 - [Learning to optimize](https://arxiv.org/abs/1606.01885)
 - [Optimization as a model for few-shot learning](https://openreview.net/forum?id=rJY0-Kcll)
 - [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813)
+- [Learning Gradient Descent: Better Generalization and Longer Horizons](https://arxiv.org/abs/1703.03633)
